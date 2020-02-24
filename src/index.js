@@ -223,7 +223,7 @@ class Paragraph {
   static get toolbox() {
     return {
       icon: require('./toolbox-icon.svg').default,
-      title: 'Text'
+      title: 'Текст'
     };
   }
 }
